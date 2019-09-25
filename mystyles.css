@@ -1,10 +1,11 @@
 body {
-    font-family: "Verdana";
+    font-family: "Helvetica";
     font-size: 18px;
     line-height: 26px;
 }
 
-.article-hed { "Times New Roman"
+.article-hed {
+    "Times New Roman"
     max-width: 720px;
     margin: auto;
 }
@@ -15,7 +16,7 @@ body {
 }
 
 .dek {
-    font-family: "Helvetica";
+    font-family: "Arial";
     font-weight: 400;
     font-size: 18px;
     line-height: 24px;
@@ -23,7 +24,7 @@ body {
 }
 
 .byline {
-    font-family: "Helvetica";
+    font-family: "Arial";
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 1px;
@@ -49,7 +50,7 @@ body {
 .photo-caption {
     margin: 0;
     font-family: "Helvetica";
-    font-size: 9px;
+    font-size: 6px;
     color: #333;
 }
 
